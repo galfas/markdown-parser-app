@@ -1,0 +1,20 @@
+{
+  "name": "markdown-parser-api",
+  "version": "1.0.0",
+  "description": "this api will be reponsible to parse markdown and translate it to html",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "markdowm",
+    "parse",
+    "html",
+    "generator"
+  ],
+  "author": "Marcelo Juan Saciloto",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^14.2.0"
+  }
+}
