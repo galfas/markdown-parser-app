@@ -17,8 +17,11 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/galfas/markdown-parser-app"
-  }
+  },
   "dependencies": {
+    "good": "^7.0.1",
+    "good-console": "^6.1.2",
+    "good-squeeze": "^4.0.0",
     "hapi": "^14.2.0"
   }
 }
